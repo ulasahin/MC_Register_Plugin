@@ -1,0 +1,20 @@
+name: Register
+version: '${project.version}'
+main: org.register.Register
+api-version: '1.18'
+
+commands:
+  şifre:
+    description: "Şfrenizi oluşturmanızı sağlar."
+    usage: "/şifre <Şifre>"
+
+  resetpassword:
+    description: "Oyuncunun şifresini sıfıtlamasını sağlar."
+    usage: "/resetpassword <NickName>"
+    permission: op
+
+  girişşifre:
+    description: "Şifrenizi bu komutla girebilirsiniz."
+    usage: "/girişşifre <Şifre>"
+
+
