@@ -7,6 +7,7 @@ And it allows you to reset the current password.(/resetpassword "PlayerNickname"
 
 
 --Spigot was used in this plugin.
+
 --The commands are in Turkish for the created society.
 
 Minecraft Version 1.18.2
