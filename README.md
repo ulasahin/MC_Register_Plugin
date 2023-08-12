@@ -3,7 +3,7 @@ This plugin allows players to create passwords on Minecraft Servers.(/şifre "pa
 
 And it allows you to reset the current password.(/resetpassword "PlayerNickname") --> !Only admins use!
 
-/girişşifre command allows login with password.
+"/girişşifre" command allows login with password.
 
 
 --Spigot was used in this plugin.
