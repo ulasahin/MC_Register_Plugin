@@ -10,4 +10,4 @@ And it allows you to reset the current password.(/resetpassword "PlayerNickname"
 
 --The commands are in Turkish for the created society.
 
-Minecraft Version 1.18.2
+--Minecraft Version 1.18.2--
