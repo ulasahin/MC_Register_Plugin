@@ -9,7 +9,7 @@ commands:
     usage: "/şifre <Şifre>"
 
   resetpassword:
-    description: "Oyuncunun şifresini sıfıtlamasını sağlar."
+    description: "Oyuncunun şifresini sıfırlamasını sağlar."
     usage: "/resetpassword <NickName>"
     permission: op
 
