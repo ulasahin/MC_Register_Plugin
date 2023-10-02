@@ -14,7 +14,7 @@ public class CreatePassword implements TabExecutor {
     @Override
     public boolean onCommand(CommandSender oyuncu, Command şifre, String label, String[] girilenŞifre) {
         if (!(oyuncu instanceof Player player)) {
-            oyuncu.sendMessage("Gürkan komutu rahat bırak.");
+            oyuncu.sendMessage("Bu komutu konsolda kullanamassınız.");
             return true;
         }
         if (girilenŞifre.length > 1) {
