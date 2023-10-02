@@ -22,7 +22,7 @@ public class resetpassword implements TabExecutor {
             return true;
         }
         player.getPersistentDataContainer().remove(Register.passwordKey);
-        oyuncu.sendMessage("Admin kanka başarıyla şifreyi sıfırladın.");
+        oyuncu.sendMessage("Oyuncunun şifresi başarıyla sıfırlandı.");
         return true;
     }
 
