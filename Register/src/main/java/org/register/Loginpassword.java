@@ -1,4 +1,4 @@
-package org.register;
+bupackage org.register;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
@@ -24,7 +24,7 @@ public class Loginpassword implements TabExecutor {
             return true;
         }
         if (!(oyuncu instanceof Player player)) {
-            oyuncu.sendMessage("Gürkan komutu rahat bırak.");
+            oyuncu.sendMessage("Bu komutu konsolda kullanamassınız.");
             return true;
         }
 
