@@ -5,7 +5,7 @@ api-version: '1.18'
 
 commands:
   şifre:
-    description: "Şfrenizi oluşturmanızı sağlar."
+    description: "Şifrenizi oluşturmanızı sağlar."
     usage: "/şifre <Şifre>"
 
   resetpassword:
